@@ -20,14 +20,14 @@ in Word document format in seconds.
 4. Get a structured bug report in `/outputs`
 
 ## Result
-1. Generated a well structured report under 30 seconds
+1. Generated a well structured report under 60 seconds
 2. Generated an structured bug report in word document with all the relevent fields which is Ready to Use for a QA Engineer after a quick review.
 
 ## ⚡ Before vs After
 
 | | Manual Testing | This Tool |
 |---|---|---|
-| Time to write bug report | 20-30 minutes | Under 30 seconds |
+| Time to write bug report | 20-30 minutes | Under 60 seconds |
 | Steps to Reproduce | Written manually | Auto-generated |
 | Missing info flagged | Often missed | Automatically flagged |
 | Severity assessment | Subjective | AI reasoned |
