@@ -1,0 +1,5 @@
+login button not working after 3 failed attempts
+account should lock but it doesnt
+tested on chrome windows 11
+happens every time
+high priority fix needed
